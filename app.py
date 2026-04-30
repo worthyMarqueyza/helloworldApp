@@ -6,7 +6,7 @@ app = Flask(__name__)
 def hello_world():
     return '''
         <body style="background-color: black; color: #00FF00; font-family: 'Droid Sans Mono', monospace; font-size: 16px; margin: 20px;">
-            Hello, World_
+            Hello, friend_
         </body>
     '''
 
