@@ -2,7 +2,7 @@
 
 Un semplice progetto end-to-end per testare le basi della containerizzazione e del Continuous Deployment nel cloud.
 
-**Live Demo:** [https://helloworldapp-ogip.onrender.com]
+**Live Demo:** [https://hellofriendapp.onrender.com]
 
 ## Tecnologie Utilizzate
 * **Sviluppo:** Python 3, Flask
