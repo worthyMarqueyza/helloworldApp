@@ -3,7 +3,7 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/')
-def hello_world():
+def hello_friend():
     return '''
         <body style="background-color: black; color: #00FF00; font-family: 'Droid Sans Mono', monospace; font-size: 16px; margin: 20px;">
             Hello, friend_
