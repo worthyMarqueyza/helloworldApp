@@ -1,6 +1,6 @@
 # Python Hello friend - DevOps Project
 
-Un semplice progetto end-to-end per testare le basi della containerizzazione e del Continuous Deployment nel cloud.
+Un semplice progetto end-to-end per testare le basi della containerizzazione e del **C**ontinuous **D**eployment nel cloud.
 
 **Live Demo:** [https://hellofriendapp.onrender.com]
 
